@@ -38,7 +38,6 @@ Se você deseja entrar em contato com nossa equipe, sinta-se à vontade para nos
 
 - Email: contato@optimasolutions.com.br
 - Website: https://www.optimasolutions.com.br
-- Twitter: @suaempresa
 - LinkedIn: [Optima Solutions LTDA](https://www.linkedin.com/company/optima-solutions-ltda/)
 
 Agradecemos novamente por visitar nossa organização no GitHub e esperamos que nossos projetos e tecnologias sejam úteis e inspiradores para você. Juntos, podemos construir um futuro de sucesso através da inovação tecnológica!
